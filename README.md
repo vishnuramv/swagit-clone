@@ -1,6 +1,6 @@
-# Swagit.in(swagit.in) clone
+# [Swagit.in](swagit.in) clone
 
-This project was done for demo purpose.
+This project was done for demo purpose. You can view the clone at [https://swagit.netlify.app/](https://swagit.netlify.app/)
 
 ## Available Scripts
 
